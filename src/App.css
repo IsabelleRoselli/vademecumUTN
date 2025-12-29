@@ -53,6 +53,7 @@ body {
   /* Degradado y Luz */
   background: linear-gradient(135deg, #660494, #056fa0);
   -webkit-background-clip: text;
+  background-clip: text;       
   -webkit-text-fill-color: transparent;
   filter: drop-shadow(0 0 10px rgba(0, 184, 148, 0.4));
 }
