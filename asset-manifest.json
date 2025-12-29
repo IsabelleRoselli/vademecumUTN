@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vademecumUTN/static/css/main.e3ec36fe.css",
+    "main.js": "/vademecumUTN/static/js/main.25881e2f.js",
+    "static/js/453.182cc013.chunk.js": "/vademecumUTN/static/js/453.182cc013.chunk.js",
+    "static/media/fondo.png": "/vademecumUTN/static/media/fondo.8733dfaefcfdadea5e12.png",
+    "index.html": "/vademecumUTN/index.html",
+    "main.e3ec36fe.css.map": "/vademecumUTN/static/css/main.e3ec36fe.css.map",
+    "main.25881e2f.js.map": "/vademecumUTN/static/js/main.25881e2f.js.map",
+    "453.182cc013.chunk.js.map": "/vademecumUTN/static/js/453.182cc013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ec36fe.css",
+    "static/js/main.25881e2f.js"
+  ]
+}
