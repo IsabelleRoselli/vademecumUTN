@@ -12,7 +12,7 @@
 body {
   background: #4e5a74 url('./fondo.png') repeat;
   background-size: 700px; /* Ajusta el tamaño de los iconos */
-  background-blend-mode: overlay; /* Esto mezcla los iconos con el color */
+  background-blend-mode: overlay; /* mezcla los iconos con el color */
 /* LUZ EN LOS BORDES: Un resplandor que viene desde los extremos */
   box-shadow: inset 0 0 150px rgba(195, 0, 255, 0.493);
   background-attachment: fixed;
